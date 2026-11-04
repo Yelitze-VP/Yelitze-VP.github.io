@@ -1,11 +1,11 @@
 ---
 title: "Mi pagina web"
-image: "GIB.jpeg"
 author: "Yelitze"
 date: "2026-10-26"
 output: html_document
-theme: flaty
+theme: flatly
 ---
+<img src="GIB.jpeg" style="width:150px; height:150px; border-radius:50%; object-fit:cover; display:block; margin: 20px auto;">
 
 <style>
 body {max-width: 750px; margin: auto;}
